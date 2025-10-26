@@ -11,7 +11,7 @@ date:   2025-10-26 21:17:12 +0200
 
 There some test goin on
 
-```
+```javascript
 
 export class car{
     constructor(brand){
